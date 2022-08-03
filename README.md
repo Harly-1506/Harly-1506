@@ -1,7 +1,10 @@
-- 👋 Hi there
-- 👀 I’m interested in Machine Learning and Deep learning
-- 🌱 I’m currently learning Math and new things 
-- 📫 How to reach me: tranminhhai1506@gmail.com
+### Hi, I'm Harly :wave:
+I'm a final year Data Science student of at [**Huflit**](https://huflit.edu.vn). I was born and raised in a peaceful countryside. Now I spend a lot of time researching Deep Learning. I wanna become an AI Engineer in the future
+
+- 👀 I’m interested in Machine Learning and Deep learning. Yah of course :upside_down_face:
+- 🌱 I’m currently learning Math, English and new things 
+- 📫 Connect with me for work or study: **tranminhhai1506@gmail.com, [Linkedin](https://www.linkedin.com/in/harly-tranminhhai/) or [Facebook](https://www.facebook.com/harly1506/)**
+- :sweat_smile: Fact: I love cats and hate English
 
 <!---
 Harly-1506/Harly-1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
