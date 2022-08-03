@@ -6,7 +6,7 @@ I'm a final year Data Science student of at [**Huflit**](https://huflit.edu.vn).
 - 📫 Connect with me for work or study: **tranminhhai1506@gmail.com, [Linkedin](https://www.linkedin.com/in/harly-tranminhhai/) or [Facebook](https://www.facebook.com/harly1506/)**
 - :sweat_smile: Fact: I love cats and hate English
 
-I'm always open to ideas and conversations to develop myself. If you have problems with my repo, please leave a comment
+I'm always open to ideas, conversations, and study together to develop myself. If you have problems with my repo, please leave a comment
 
 <!---
 Harly-1506/Harly-1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
