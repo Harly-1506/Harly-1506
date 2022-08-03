@@ -1,5 +1,5 @@
 ### Hi, I'm Harly :wave:
-I'm a final year Data Science student of at [**Huflit**](https://huflit.edu.vn). I was born and raised in a peaceful countryside. Now I spend a lot of time researching Deep Learning. I wanna become an **AI Engineer** in the future
+I'm a final year Data Science student at [**Huflit**](https://huflit.edu.vn). I was born and raised in peaceful countryside. Now I spend a lot of time researching Deep Learning. I wanna become an **AI Engineer** in the future
 
 - 👀 I’m interested in **Machine Learning** and **Deep learning**. Yah of course :upside_down_face:
 - 🌱 I’m currently learning **Math**, **English** and **new things** 
