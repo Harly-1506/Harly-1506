@@ -11,7 +11,6 @@ ___
 :red_circle: I'm also a study streamer, I always self-motivate and push myself to develop. Also, I want someone to study with me. So if you find it interesting and want to learn with me then join me on youtube and my small family
  
  **Youtube:** [**Harly**](https://www.youtube.com/channel/UCynuB1iXXgUf7MbDCCup45g)
- 
  **Discord:** [**Harly**](https://discord.gg/827tHGn4cM)
 
 <!---
