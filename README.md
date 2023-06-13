@@ -3,7 +3,7 @@ I'm a final year Data Science student at [**Huflit**](https://huflit.edu.vn). I 
 
 - 👀 I’m interested in **Machine Learning** and **Deep learning**. Yah of course :upside_down_face:
 - 🌱 I’m currently learning **Math**, **English** and **new things** 
-- 📫 Connect with me for work or study: **tranminhhai1506@gmail.com, [Linkedin](https://www.linkedin.com/in/harly-tranminhhai/) or [Facebook](https://www.facebook.com/harly1506/)**
+- 📫 Connect with me for work or study: **tranminhhai1506@gmail.com, [Linkedin](https://www.linkedin.com/in/harly-tranminhhai/)**
 - :sweat_smile: Fact: I love cats and try to speaking English :3
 
 I'm always open to ideas, conversations, and study together to develop myself. If you have problems with my repo, please leave a comment
