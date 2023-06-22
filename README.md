@@ -25,5 +25,5 @@ You can click the Preview link to take a look at your changes.
 ___
 #
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harly-1506&theme=yeblu&show_icons=true&border_radius=true&border_color=#000000&count_private=true)](https://github.com/Harly-1506/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harly-1506&theme=yeblu&hide=html,jupyter%20notebook,scss,less,css)](https://github.com/Harly-1506/github-readme-stats)
+![](https://api.githubtrends.io/user/svg/Harly-1506/langs?time_range=one_year&include_private=True&theme=classic)
 #
