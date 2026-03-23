@@ -8,10 +8,6 @@ I'm an AI researcher. I was born and raised in peaceful countryside. Now I spend
 
 I'm always open to ideas, conversations, and study together to develop myself. If you have problems with my repo, please leave a comment
 ___
-:red_circle: I'm also a study streamer, I always self-motivate and push myself to develop. Also, I want someone to study with me. So if you find it interesting and want to learn with me then join me on youtube and my small family
- 
- **Youtube:** [**Harly**](https://www.youtube.com/channel/UCynuB1iXXgUf7MbDCCup45g)
- **Discord:** [**Harly**](https://discord.gg/827tHGn4cM)
 
 <!---
 Harly-1506/Harly-1506 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
